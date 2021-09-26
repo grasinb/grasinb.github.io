@@ -1,8 +1,8 @@
 ## A GALERIA
 
-[carrd](https://grasinbit.carrd.co/)
+[meu carrd](https://grasinbit.carrd.co/)
 
-arte em ordem cronológica (mais recente ao mais antigo)
+Em ordem cronológica (mais recente ao mais antigo)
 
 ![agathinha](https://pbs.twimg.com/media/FALTAhvVQAUMnI7?format=jpg&name=4096x4096)
 ![dante](https://pbs.twimg.com/media/FAK-0HcXIAA7oo1?format=jpg&name=large)
