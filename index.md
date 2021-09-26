@@ -1,5 +1,3 @@
-## A GALERIA
-
 [meu carrd](https://grasinbit.carrd.co/)
 
 Em ordem cronológica (mais recente ao mais antigo)
