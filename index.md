@@ -4,7 +4,7 @@
 
 Em ordem cronológica (mais recente ao mais antigo)
 
-<p align="center" width="100%">
+<p align="right" width="100%">
     <img width="33%" src="https://pbs.twimg.com/media/FALTAhvVQAUMnI7?format=jpg&name=4096x4096">
     <img width="33%" src="https://pbs.twimg.com/media/FAK-0HcXIAA7oo1?format=jpg&name=large">
     <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
